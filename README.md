@@ -24,7 +24,7 @@ Welcome to Sandesha - a real-time chat application built with Flutter. Sandesha 
 
 ## Screenshots
 
-<img src="./demo.png>
+<img src="./Sandesha.png>
 
 ## Acknowledgements
 
